@@ -37,9 +37,7 @@ Prima di iniziare, assicurati di avere:
 5. **Personalizza la dashboard**:
    - Modifica o aggiungi visualizzazioni per adattarle alle tue esigenze.
 
-## **Video Tutorial**
-Puoi seguire il tutorial completo su YouTube:  
-🎥 **[Guarda il video qui](https://youtube.com/tuo-video-link)**
+
 
 ## **Struttura della Repository**
 ```plaintext
